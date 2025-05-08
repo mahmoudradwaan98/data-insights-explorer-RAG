@@ -19,7 +19,7 @@ To run this project, you need to have Python and the required libraries installe
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/emansa3ed/data-insights-explorer.git
+    git clone https://github.com/mahmoudradwaan98/data-insights-explorer-RAG.git
     cd data-insights-explorer
     ```
 
